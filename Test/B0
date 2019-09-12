@@ -1,0 +1,4 @@
+10 REM ./x16emu -bas Test/B0 -run
+20 PRINT "HELLO X16"
+30 POKE $9FB4,0
+40 SYS$FFFF
